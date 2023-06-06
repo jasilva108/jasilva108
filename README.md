@@ -1,6 +1,12 @@
-<h1>Hi, I'm Juan Silva! <br/><a href="https://github.com/jasilva108">Mechanical Engineer</a>, <a href="https://www.linkedin.com/in/juan-silva-material-engineering-2019/">
-<h2>👨‍💻 Software Development Projects:</h2>
-https://imgur.com/BxWGJDc
+<h1>Hi, I'm Juan Silva! <br/><a href="https://github.com/jasilva108"</a> <a href="https://www.linkedin.com/in/juan-silva-material-engineering-2019/">
+  
+<h2>👨‍💻 Mechanical Engineer:</h2>
+  <img src="https://imgur.com/a/Gb8TJlv"
+       
+  ![Juan Silva_Portfolio_page-0001](https://github.com/jasilva108/jasilva108/assets/135763736/9293b903-4a5d-4cc5-aaae-aaba29f5c6b6)
+
+![My Remote Image]() 
+  
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
